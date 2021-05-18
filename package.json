@@ -3,20 +3,20 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://goitacademy.github.io/parcel-test",
+  "homepage": "https://pro100flash.github.io/parcel-test",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-test/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-test.git"
+    "url": "git+https://github.com/pro100flash/parcel-test.git"
   },
   "keywords": [],
   "author": "Yuri Khomyn <yurii.khomin@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-test/issues"
+    "url": "https://github.com/pro100flash/parcel-test/issues"
   },
   "devDependencies": {
     "gh-pages": "^3.1.0",
